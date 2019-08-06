@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <assemblyIdentity name="WordFax, PublicKeyToken=81848a9e0690dd71" />
+  <loaderSettings generateLogFile="true" shadowCopyEnabled="true" privileges="user" configFileName="App.config" />
+</configuration>

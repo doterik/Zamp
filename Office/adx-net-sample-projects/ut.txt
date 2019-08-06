@@ -1,0 +1,469 @@
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\readme.txt
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\ut.txt
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\ContextDependentRegions.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\ContextDependentRegions.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\ExplorerForm.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\ExplorerForm.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\InspectorForm.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\InspectorForm.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\OfficePIAs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\readme.txt
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\WebViewPaneForm.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\WebViewPaneForm.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\OfficePIAs\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\OfficePIAs\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\OfficePIAs\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\ADXOlForm1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\ADXOlForm1.Designer.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\ADXOlForm1.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\HelloWorld.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\HelloWorld.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Interops\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Interops\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Interops\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\ExcelAddinModule1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\MyExcelAutomationAddin1.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\MyExcelAutomationAddin1.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\OfficePIAs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\TestBook.xls
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\OfficePIAs\Interop.Excel.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\OfficePIAs\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#\MyExcelAutomationAddin1\OfficePIAs\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1\MyRTDServer1.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1\MyRTDServer1.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1\RTDServerModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1\RTDServerModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1\TestBook.xls
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#\MyRTDServer1\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\ADXExcelTaskPane1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\ADXExcelTaskPane1.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\ADXPowerPointTaskPane1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\ADXPowerPointTaskPane1.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\ADXWordTaskPane1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\ADXWordTaskPane1.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\ExcelWorksheetEventsClass1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\MyAddin1.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\MyAddin1.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\OfficePIAs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\OfficePIAs\Interop.Excel.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\OfficePIAs\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\OfficePIAs\Interop.PowerPoint.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\OfficePIAs\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#\MyAddin1\OfficePIAs\Interop.Word.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\ADXOlForm1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\ADXOlForm1.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\MyOutlookAddin1.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\MyOutlookAddin1.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\OfficePIAs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\OutlookItemsEventsClass1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\PropertyPage1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\PropertyPage1.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\OfficePIAs\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\OfficePIAs\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#\MyOutlookAddin1\OfficePIAs\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1\MySmartTag1.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1\MySmartTag1.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1\SmartTagImpl.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1\SmartTagModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1\SmartTagModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#\MySmartTag1\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\MyXLLAddin1.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\MyXLLAddin1.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\TestBook.xls
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\XLLModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\XLLModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\Interops\Interop.Excel.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\Interops\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\Interops\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\Loader\adxloader.MyXLLAddin1.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\Loader\adxloader64.MyXLLAddin1.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#\MyXLLAddin1\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\CustomSmartTagRecognizer.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\CustomSmartTagRecognizer.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\SmartTagImpl.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\SmartTagModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\SmartTagModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\Interops\Microsoft.Office.Interop.Excel.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\Interops\Microsoft.Office.Interop.Word.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\Interops\Microsoft.Vbe.Interop.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\Interops\office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#\CustomSmartTagRecognizer\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\ExcelAddinModule1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\ExcelAutomationAddin.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\ExcelAutomationAddin.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\SampleBook.xls
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\Interops\Interop.Excel.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\Interops\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\Interops\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#\ExcelAutomationAddin\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\CalendarForm.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\CalendarForm.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\ExcelTimesheet.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\ExcelTimesheet.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\Timesheet Template.xlt
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\TimesheetModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\TimesheetModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\Interops\Interop.Excel.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\Interops\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\Interops\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#\ExcelTimesheet\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\image.bmp
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\OutlookContextMenus.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\OutlookContextMenus.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\Interops\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\Interops\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\Interops\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#\OutlookContextMenus\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\OutlookFolderItemsEvents.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\OutlookFolderItemsEvents.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\OutlookItemsEvents.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\Interops\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\Interops\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\Interops\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#\OutlookFolderItemsEvents\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\OutlookFoldersEvents.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\OutlookFoldersEvents.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\OutlookFoldersEvents.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\Interops\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\Interops\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\Interops\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#\OutlookFoldersEvents\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\ItemEventsClass.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\OutlookItemEvents.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\OutlookItemEvents.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\Interops\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\Interops\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\Interops\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#\OutlookItemEvents\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\OutlookPropertyPage.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\OutlookPropertyPage.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\PropertyPage1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\PropertyPage1.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\Interops\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\Interops\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\Interops\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#\OutlookPropertyPage\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\RTDServerModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\RTDServerModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\RTDServerSample.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\RTDServerSample.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\Sample.xls
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\Interops\Microsoft.Office.Interop.Excel.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\Interops\Microsoft.Vbe.Interop.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\Interops\office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#\RTDServerSample\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\ADX Fax Template.dot
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\CalendarForm.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\CalendarForm.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\FaxModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\FaxModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\WordFax.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\WordFax.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\Interops\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\Interops\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\Interops\Interop.Word.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#\WordFax\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\ContactsForm.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\ContactsForm.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\MessageForm.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\MessageForm.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\OfficePIAs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\OutlookAddin.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\OutlookAddin.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\OfficePIAs\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\OfficePIAs\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#\OutlookAddin\OfficePIAs\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#\Send Mail Sample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#\SendMail.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#\Send Mail Sample\App.ico
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#\Send Mail Sample\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#\Send Mail Sample\Form1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#\Send Mail Sample\Form1.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#\Send Mail Sample\OfficePIAs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#\Send Mail Sample\SendMail.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#\Send Mail Sample\OfficePIAs\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#\Send Mail Sample\OfficePIAs\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#\Send Mail Sample\OfficePIAs\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application\VS2010\C#\Simple Application
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application\VS2010\C#\SimpleApp.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application\VS2010\C#\Simple Application\App.ico
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application\VS2010\C#\Simple Application\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application\VS2010\C#\Simple Application\Form1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application\VS2010\C#\Simple Application\Form1.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application\VS2010\C#\Simple Application\SimpleApp.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#\ExcelAddInCS
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#\ExcelAddInCS.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#\ExcelAddInCS\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#\ExcelAddInCS\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#\ExcelAddInCS\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#\ExcelAddInCS\ExcelAddInCS.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#\ExcelAddInCS\ExcelAddInCS.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#\ExcelAddInCS\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#\ExcelAddInCS\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#\ExcelAddInCS\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#\ExcelAddInCS\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\MultipleHostsCS.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\MultipleHostsCS.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\UserControl1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\UserControl1.Designer.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\UserControl1.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#\MultipleHostsCS\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#\OutlookAddInCS
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#\OutlookAddInCS.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#\OutlookAddInCS\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#\OutlookAddInCS\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#\OutlookAddInCS\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#\OutlookAddInCS\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#\OutlookAddInCS\OutlookAddInCS.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#\OutlookAddInCS\OutlookAddInCS.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#\OutlookAddInCS\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#\OutlookAddInCS\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#\OutlookAddInCS\Loader\adxloader64.dll

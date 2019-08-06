@@ -1,0 +1,118 @@
+
+---------- UT.TXT
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\readme.txt
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\ut.txt
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\ContextDependentRegions.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\ContextDependentRegions.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\ExplorerForm.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\ExplorerForm.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\InspectorForm.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\InspectorForm.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\OfficePIAs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\readme.txt
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\WebViewPaneForm.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\WebViewPaneForm.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\OfficePIAs\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\OfficePIAs\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Context-Dependent Regions\ContextDependentRegions\OfficePIAs\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld.sln
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\AddinModule.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\AddinModule.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\ADXOlForm1.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\ADXOlForm1.Designer.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\ADXOlForm1.resx
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\HelloWorld.csproj
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\HelloWorld.snk
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Interops
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Loader
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Properties
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Interops\Interop.Office.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Interops\Interop.Outlook.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Interops\Interop.VBIDE.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Loader\adxloader.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Loader\adxloader.dll.manifest
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Loader\adxloader64.dll
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Advanced Outlook Regions\Hello World Sample\HelloWorld\Properties\AssemblyInfo.cs
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel Automation Add-in\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Excel RTD Server\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Office COM Add-in\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Microsoft Outlook COM Add-in\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First Smart Tag\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Documentation Samples\Your First XLL Add-in\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\CustomSmartTagRecognizer\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelAutomationAddin\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\ExcelTimesheet\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookContextMenus\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFolderItemsEvents\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookFoldersEvents\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookItemEvents\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\OutlookPropertyPage\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\RTDServerStock\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Other Samples\WordFax\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\COM Add-in\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Send Mail Sample\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Outlook Security Manager\Simple Application\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Excel Add-in Sample\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Multiple Hosts Sample\VS2010\C#
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010
+C:\Users\TeleComputing\Downloads\adx-net-sample-projects\Toolbar Controls for Microsoft Office\Outlook Add-in Sample\VS2010\C#
